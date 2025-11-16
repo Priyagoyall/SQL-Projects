@@ -5,24 +5,24 @@ It includes beginner-to-advanced SQL queries, business insights, and analytics c
 
 ## 📂 Dataset Summary
 The database contains the following key tables:
-customers — customer details
-products — product catalog
-orders — customer order records
-order_items — items inside each order
-reviews — customer ratings & feedback
-suppliers — supplier information
-shipments — delivery status of orders
+- customers — customer details
+- products — product catalog
+- orders — customer order records
+- order_items — items inside each order
+- reviews — customer ratings & feedback
+- suppliers — supplier information
+- shipments — delivery status of orders
 
 ## 🎯 Objectives
-Perform SQL analysis on e-commerce operations
-Write queries from basic to advanced (Joins, Aggregations, Window Functions)
-Generate actionable business insights
-Build a complete analytics case study for portfolios
+* Perform SQL analysis on e-commerce operations
+* Write queries from basic to advanced (Joins, Aggregations, Window Functions)
+* Generate actionable business insights
+* Build a complete analytics case study for portfolios
 
 ## 🛠️ Concepts Used
-SQL Joins
-Aggregate Functions
-Window Functions (RANK, ROW_NUMBER, DENSE_RANK)
-Subqueries & CTEs
-Grouping & Filtering
-Pattern Matching (LIKE)
+- SQL Joins
+- Aggregate Functions
+- Window Functions (RANK, ROW_NUMBER, DENSE_RANK)
+- Subqueries & CTEs
+- Grouping & Filtering
+- Pattern Matching (LIKE)
