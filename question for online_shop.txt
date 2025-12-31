@@ -1,0 +1,22 @@
+display the product name who have quantity is greater then 5
+display the product name, customer name, rating and feedback of customer which have 4 and 5 rating for a product.
+find the product name which have highest rating monthwise
+display the carrier company who has maximum delivery ratio then other all carrier company
+display the supplier name who supply electronics item
+display the supplier name, product name, price and category where product name has 'com' in itself.
+display the maximum selling item in every month
+display the maximum selling item yearwise
+top selling product
+customer purchase history
+product rating summary
+top customer by spending
+top 5 most reviewd product
+show product category with total quantity sold 
+show product with total quantity sold 
+find average rating of each product
+get aall the shipment with their status and order date
+total order placed by each customer
+list customer who have not placed any order
+get all the shipment with their status and order date
+
+
